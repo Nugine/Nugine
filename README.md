@@ -16,6 +16,7 @@ My projects:
 + [Nugine/deno-manual-cn](https://github.com/Nugine/deno-manual-cn): Deno 中文手册
 + [Nugine/transform-stream](https://github.com/Nugine/transform-stream): Lightweight async stream wrapper
 + [Nugine/carapace](https://github.com/Nugine/carapace): A code runner for online judge
++ [Nugine/placement-new](https://github.com/Nugine/placement-new): Common utilities to implement "placement-new".
 + [ThinkSpiritLab/ojcmp](https://github.com/ThinkSpiritLab/ojcmp): Online judge comparer
 + [ThinkSpiritLab/ScrollBoard](https://github.com/ThinkSpiritLab/ScrollBoard): 滚榜动画
 + [datenlord/aligned-utils](https://github.com/datenlord/aligned-utils): Common utilities to work with aligned values and allocation
