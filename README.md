@@ -14,6 +14,7 @@ Notable projects:
 + [Nugine/rlimit](https://github.com/Nugine/rlimit/): Resource limits
 + [Nugine/const-str](https://github.com/Nugine/const-str): Compile-time string operations
 + [Nugine/bfjit](https://github.com/Nugine/bfjit): Brainfuck JIT 虚拟机教程
++ [Nugine/s3s](https://github.com/Nugine/s3s): S3 Service Adapter
 + [Nugine/transform-stream](https://github.com/Nugine/transform-stream): Lightweight async stream wrapper
 + [Nugine/numeric_cast](https://github.com/Nugine/numeric_cast): Safely cast between numbers
 + [Nugine/outref](https://github.com/Nugine/outref): Out reference
@@ -36,3 +37,24 @@ Notable projects:
 + [datenlord/s3-server](https://github.com/datenlord/s3-server): Generic S3 server implementation
 + [datenlord/aligned-utils](https://github.com/datenlord/aligned-utils): Common utilities to work with aligned values and allocation
 + [datenlord/async-fuse](https://github.com/datenlord/async-fuse): asynchronous FUSE implementation
++ ...
+
+I have contributed to various projects:
+
++ [rust-lang/rust](https://github.com/rust-lang/rust)
++ [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
++ [denoland/deno](https://github.com/denoland/deno)
++ [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
++ [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb)
++ [datafuselabs/opendal](https://github.com/datafuselabs/opendal)
++ [datenlord/datenlord](https://github.com/datenlord/datenlord)
++ [uuid-rs/uuid](https://github.com/uuid-rs/uuid)
++ [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021)
++ [minio/mc](https://github.com/minio/mc)
++ [RustScan/RustScan](https://github.com/RustScan/RustScan)
++ [DataDog/glommio](https://github.com/DataDog/glommio)
++ [console-rs/indicatif](https://github.com/console-rs/indicatif)
++ [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit)
++ [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)
++ [kpcyrd/syscallz-rs](https://github.com/kpcyrd/syscallz-rs)
++ ...
