@@ -43,6 +43,7 @@ I have contributed to various projects:
 
 + [rust-lang/rust](https://github.com/rust-lang/rust)
 + [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
++ [rust-lang/reference](https://github.com/rust-lang/reference)
 + [denoland/deno](https://github.com/denoland/deno)
 + [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
 + [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb)
