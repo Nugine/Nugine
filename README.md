@@ -70,6 +70,8 @@ By sponsoring me, you'll also be supporting the wider open-source ecosystem. You
 
 Every little bit helps, and I appreciate your support. Thank you!
 
+<a href="https://www.buymeacoffee.com/nugine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 144px !important;" ></a>
+
 #### PayPal
 
 <https://paypal.me/nugine0>
@@ -77,3 +79,7 @@ Every little bit helps, and I appreciate your support. Thank you!
 #### Alipay
 
 ![alipay qrcode](./alipay.jpg)
+
+#### WeChat Pay
+
+![wechat pay qrcode](./wechat.jpg)
