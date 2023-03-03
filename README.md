@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Xuyang Wang. I love to create something interesting. 👋
+I'm Xuyang WANG. I love to create something interesting. 👋
 
 My ID is **Nugine**. Just a **nu**clear en**gine**. 
 
