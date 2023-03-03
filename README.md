@@ -59,3 +59,21 @@ I have contributed to various projects:
 + [Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)
 + [kpcyrd/syscallz-rs](https://github.com/kpcyrd/syscallz-rs)
 + ...
+
+### Sponsor
+
+If my open-source work has been helpful to you, please sponsor me.
+
+Your contribution can help me cover the costs of hosting, development tools, and other expenses that come with creating high-quality software.
+
+By sponsoring me, you'll also be supporting the wider open-source ecosystem. Your contribution will help to fund the development of other projects and allow developers to dedicate more time to improving the software that powers our world.
+
+Every little bit helps, and I appreciate your support. Thank you!
+
+#### PayPal
+
+<https://paypal.me/nugine0>
+
+#### Alipay
+
+![alipay qrcode](./alipay.jpg)
