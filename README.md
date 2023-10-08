@@ -4,6 +4,8 @@ I'm Xuyang WANG. I love to create something interesting. 👋
 
 My ID is **Nugine**. Just a **nu**clear en**gine**. 
 
+My blog site: <https://nugine.xyz/>
+
 Programming languages: Rust, Python, TypeScript/JavaScript, C/C++, ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Nugine&show_icons=true"/></a>
@@ -11,20 +13,20 @@ Programming languages: Rust, Python, TypeScript/JavaScript, C/C++, ...
 Notable projects:
 
 + [Nugine/simd](https://github.com/Nugine/simd): SIMD-accelerated operations
++ [Nugine/s3s](https://github.com/Nugine/s3s): S3 Service Adapter
 + [Nugine/rlimit](https://github.com/Nugine/rlimit/): Resource limits
 + [Nugine/const-str](https://github.com/Nugine/const-str): Compile-time string operations
 + [Nugine/bfjit](https://github.com/Nugine/bfjit): Brainfuck JIT 虚拟机教程
-+ [Nugine/s3s](https://github.com/Nugine/s3s): S3 Service Adapter
-+ [Nugine/transform-stream](https://github.com/Nugine/transform-stream): Lightweight async stream wrapper
-+ [Nugine/numeric_cast](https://github.com/Nugine/numeric_cast): Safely cast between numbers
-+ [Nugine/outref](https://github.com/Nugine/outref): Out reference
++ [Nugine/rust-utils](https://github.com/Nugine/rust-utils): Various utilities and experimental ideas
+    + [transform-stream](https://github.com/Nugine/rust-utils/tree/main/crates/transform-stream): Lightweight async stream wrapper
+    + [numeric_cast](https://github.com/Nugine/rust-utils/tree/main/crates/numeric_cast): Safely cast between numbers
+    + [outref](https://github.com/Nugine/rust-utils/tree/main/crates/outref): Out reference
+    + [asc](https://github.com/Nugine/rust-utils/tree/main/crates/asc): Atomic Strong Count
+    + [ordered-vecmap](https://github.com/Nugine/rust-utils/tree/main/crates/ordered-vecmap): Ordered map and set based on vectors and binary search
+    + [wgp](https://github.com/Nugine/rust-utils/tree/main/crates/wgp): Yet another waitgroup implementation
 + [Nugine/rdma](https://github.com/Nugine/rdma): Low-level RDMA API
 + [Nugine/simdutf-rs](https://github.com/Nugine/simdutf-rs): Unicode validation and transcoding at billions of characters per second
-+ [Nugine/articles](https://github.com/Nugine/articles): Nugine 的文章仓库
 + [Nugine/epkv](https://github.com/Nugine/epkv): An experimental distributed key-value database using EPaxos protocol
-+ [Nugine/asc](https://github.com/Nugine/asc): Atomic Strong Count
-+ [Nugine/ordered-vecmap](https://github.com/Nugine/ordered-vecmap): Ordered map and set based on vectors and binary search
-+ [Nugine/wgp](https://github.com/Nugine/wgp): Yet another waitgroup implementation
 + [Nugine/nuclear-router](https://github.com/Nugine/nuclear-router): A URL router library with focus on speed
 + [Nugine/nuclear](https://github.com/Nugine/nuclear): A web framework for humans
 + [Nugine/deno-manual-cn](https://github.com/Nugine/deno-manual-cn): Deno 中文手册
@@ -70,16 +72,16 @@ By sponsoring me, you'll also be supporting the wider open-source ecosystem. You
 
 Every little bit helps, and I appreciate your support. Thank you!
 
-<a href="https://www.buymeacoffee.com/nugine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 144px !important;" ></a>
+<!-- <a href="https://www.buymeacoffee.com/nugine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 144px !important;" ></a> -->
 
 #### PayPal
 
 <https://paypal.me/nugine0>
 
-#### Alipay
+#### Alipay 支付宝
 
 ![alipay qrcode](./alipay.jpg)
 
-#### WeChat Pay
+#### WeChat Pay 微信支付
 
 ![wechat pay qrcode](./wechat.jpg)
