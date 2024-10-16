@@ -16,6 +16,7 @@ Notable projects:
 + [Nugine/s3s](https://github.com/Nugine/s3s): S3 Service Adapter
 + [Nugine/rlimit](https://github.com/Nugine/rlimit/): Resource limits
 + [Nugine/const-str](https://github.com/Nugine/const-str): Compile-time string operations
++ [Nugine/redis-hyperloglog](https://github.com/Nugine/redis-hyperloglog): Accelerate Redis PFCOUNT and PFMERGE by 12 times
 + [Nugine/bfjit](https://github.com/Nugine/bfjit): Brainfuck JIT 虚拟机教程
 + [Nugine/rust-utils](https://github.com/Nugine/rust-utils): Various utilities and experimental ideas
     + [transform-stream](https://github.com/Nugine/rust-utils/tree/main/crates/transform-stream): Lightweight async stream wrapper
@@ -46,6 +47,7 @@ I have contributed to various projects:
 + [rust-lang/rust](https://github.com/rust-lang/rust)
 + [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
 + [rust-lang/reference](https://github.com/rust-lang/reference)
++ [redis/redis](https://github.com/redis/redis)
 + [denoland/deno](https://github.com/denoland/deno)
 + [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
 + [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb)
