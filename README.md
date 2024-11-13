@@ -22,9 +22,9 @@ Notable projects:
     + [transform-stream](https://github.com/Nugine/rust-utils/tree/main/crates/transform-stream): Lightweight async stream wrapper
     + [numeric_cast](https://github.com/Nugine/rust-utils/tree/main/crates/numeric_cast): Safely cast between numbers
     + [outref](https://github.com/Nugine/rust-utils/tree/main/crates/outref): Out reference
-    + [asc](https://github.com/Nugine/rust-utils/tree/main/crates/asc): Atomic Strong Count
     + [ordered-vecmap](https://github.com/Nugine/rust-utils/tree/main/crates/ordered-vecmap): Ordered map and set based on vectors and binary search
     + [wgp](https://github.com/Nugine/rust-utils/tree/main/crates/wgp): Yet another waitgroup implementation
++ [Nugine/asc](https://github.com/Nugine/asc): Atomic Strong Count
 + [Nugine/rdma](https://github.com/Nugine/rdma): Low-level RDMA API
 + [Nugine/simdutf-rs](https://github.com/Nugine/simdutf-rs): Unicode validation and transcoding at billions of characters per second
 + [Nugine/epkv](https://github.com/Nugine/epkv): An experimental distributed key-value database using EPaxos protocol
