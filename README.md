@@ -48,10 +48,13 @@ I have contributed to various projects:
 + [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
 + [rust-lang/reference](https://github.com/rust-lang/reference)
 + [redis/redis](https://github.com/redis/redis)
+  + https://github.com/redis/redis/pull/13558
++ [valkey-io/valkey](https://github.com/valkey-io/valkey)
+  + https://github.com/valkey-io/valkey/pull/1293
 + [denoland/deno](https://github.com/denoland/deno)
 + [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
 + [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb)
-+ [datafuselabs/opendal](https://github.com/datafuselabs/opendal)
++ [apache/opendal](https://github.com/apache/opendal)
 + [datenlord/datenlord](https://github.com/datenlord/datenlord)
 + [uuid-rs/uuid](https://github.com/uuid-rs/uuid)
 + [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021)
