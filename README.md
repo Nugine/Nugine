@@ -6,7 +6,7 @@ My ID is **Nugine**. Just a **nu**clear en**gine**.
 
 My blog site: <https://nugine.xyz/>
 
-Programming languages: Rust, Python, TypeScript/JavaScript, C/C++, ...
+Programming languages: Rust, Python, C/C++, TypeScript/JavaScript, ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Nugine&show_icons=true"/></a>
 
@@ -45,15 +45,25 @@ Notable projects:
 I have contributed to various projects:
 
 + [rust-lang/rust](https://github.com/rust-lang/rust)
-+ [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
+  + https://github.com/rust-lang/rust/pull/106774
 + [rust-lang/reference](https://github.com/rust-lang/reference)
+  + https://github.com/rust-lang/reference/pull/1331
++ [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
+  + https://github.com/rust-lang/stdarch/pull/1354
+  + https://github.com/rust-lang/stdarch/pull/1357
+  + https://github.com/rust-lang/stdarch/pull/1358
+  + https://github.com/rust-lang/stdarch/pull/1364
 + [redis/redis](https://github.com/redis/redis)
   + https://github.com/redis/redis/pull/13558
+  + https://github.com/redis/redis/pull/13672
 + [valkey-io/valkey](https://github.com/valkey-io/valkey)
   + https://github.com/valkey-io/valkey/pull/1293
 + [denoland/deno](https://github.com/denoland/deno)
+  + https://github.com/denoland/deno/pull/14992
 + [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
+  + https://github.com/denoland/rusty_v8/pull/1019
 + [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb)
+  + https://github.com/tikv/rust-rocksdb/pull/686
 + [apache/opendal](https://github.com/apache/opendal)
 + [datenlord/datenlord](https://github.com/datenlord/datenlord)
 + [uuid-rs/uuid](https://github.com/uuid-rs/uuid)
