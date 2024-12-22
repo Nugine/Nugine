@@ -18,13 +18,15 @@ Notable projects:
 + [Nugine/const-str](https://github.com/Nugine/const-str): Compile-time string operations
 + [Nugine/redis-hyperloglog](https://github.com/Nugine/redis-hyperloglog): Accelerate Redis PFCOUNT and PFMERGE by 12 times
 + [Nugine/bfjit](https://github.com/Nugine/bfjit): Brainfuck JIT 虚拟机教程
++ [Nugine/asc](https://github.com/Nugine/asc): Atomic Strong Count
++ [Nugine/zuc](https://github.com/Nugine/zuc): ZUC Stream Cipher Algorithms
++ [Nugine/std-next](https://github.com/Nugine/std-next): Opinionated utilities and polyfills
 + [Nugine/rust-utils](https://github.com/Nugine/rust-utils): Various utilities and experimental ideas
     + [transform-stream](https://github.com/Nugine/rust-utils/tree/main/crates/transform-stream): Lightweight async stream wrapper
     + [numeric_cast](https://github.com/Nugine/rust-utils/tree/main/crates/numeric_cast): Safely cast between numbers
     + [outref](https://github.com/Nugine/rust-utils/tree/main/crates/outref): Out reference
     + [ordered-vecmap](https://github.com/Nugine/rust-utils/tree/main/crates/ordered-vecmap): Ordered map and set based on vectors and binary search
     + [wgp](https://github.com/Nugine/rust-utils/tree/main/crates/wgp): Yet another waitgroup implementation
-+ [Nugine/asc](https://github.com/Nugine/asc): Atomic Strong Count
 + [Nugine/rdma](https://github.com/Nugine/rdma): Low-level RDMA API
 + [Nugine/simdutf-rs](https://github.com/Nugine/simdutf-rs): Unicode validation and transcoding at billions of characters per second
 + [Nugine/epkv](https://github.com/Nugine/epkv): An experimental distributed key-value database using EPaxos protocol
