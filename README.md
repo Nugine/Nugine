@@ -12,21 +12,21 @@ Programming languages: Rust, Python, C/C++, TypeScript/JavaScript, ...
 
 Notable projects:
 
-+ [Nugine/simd](https://github.com/Nugine/simd): SIMD-accelerated operations
 + [Nugine/s3s](https://github.com/Nugine/s3s): S3 Service Adapter
++ [Nugine/simd](https://github.com/Nugine/simd): SIMD-accelerated operations
 + [Nugine/rlimit](https://github.com/Nugine/rlimit/): Resource limits
 + [Nugine/const-str](https://github.com/Nugine/const-str): Compile-time string operations
 + [Nugine/redis-hyperloglog](https://github.com/Nugine/redis-hyperloglog): Accelerate Redis PFCOUNT and PFMERGE by 12 times
-+ [Nugine/bfjit](https://github.com/Nugine/bfjit): Brainfuck JIT 虚拟机教程
++ [Nugine/zuc](https://github.com/Nugine/zuc): ZUC Stream Cipher Algorithms
 + [Nugine/numeric_cast](https://github.com/Nugine/numeric_cast): Safely cast between numbers
 + [Nugine/asc](https://github.com/Nugine/asc): Atomic Strong Count
-+ [Nugine/zuc](https://github.com/Nugine/zuc): ZUC Stream Cipher Algorithms
++ [Nugine/outref](https://github.com/Nugine/outref): Out reference
 + [Nugine/std-next](https://github.com/Nugine/std-next): Opinionated utilities and polyfills
 + [Nugine/rust-utils](https://github.com/Nugine/rust-utils): Various utilities and experimental ideas
     + [transform-stream](https://github.com/Nugine/rust-utils/tree/main/crates/transform-stream): Lightweight async stream wrapper
-    + [outref](https://github.com/Nugine/rust-utils/tree/main/crates/outref): Out reference
     + [ordered-vecmap](https://github.com/Nugine/rust-utils/tree/main/crates/ordered-vecmap): Ordered map and set based on vectors and binary search
     + [wgp](https://github.com/Nugine/rust-utils/tree/main/crates/wgp): Yet another waitgroup implementation
++ [Nugine/bfjit](https://github.com/Nugine/bfjit): Brainfuck JIT 虚拟机教程
 + [Nugine/rdma](https://github.com/Nugine/rdma): Low-level RDMA API
 + [Nugine/simdutf-rs](https://github.com/Nugine/simdutf-rs): Unicode validation and transcoding at billions of characters per second
 + [Nugine/epkv](https://github.com/Nugine/epkv): An experimental distributed key-value database using EPaxos protocol
