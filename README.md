@@ -30,6 +30,7 @@ Notable projects:
 + [Nugine/rdma](https://github.com/Nugine/rdma): Low-level RDMA API
 + [Nugine/simdutf-rs](https://github.com/Nugine/simdutf-rs): Unicode validation and transcoding at billions of characters per second
 + [Nugine/epkv](https://github.com/Nugine/epkv): An experimental distributed key-value database using EPaxos protocol
++ [Nugine/setup-flatc](https://github.com/Nugine/setup-flatc): Setup flatc for use in actions
 + [Nugine/nuclear-router](https://github.com/Nugine/nuclear-router): A URL router library with focus on speed
 + [Nugine/nuclear](https://github.com/Nugine/nuclear): A web framework for humans
 + [Nugine/deno-manual-cn](https://github.com/Nugine/deno-manual-cn): Deno 中文手册

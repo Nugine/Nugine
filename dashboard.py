@@ -12,6 +12,7 @@ REPO_LIST = [
     "Nugine/rust-utils",
     "Nugine/simdutf-rs",
     "Nugine/epkv",
+    "Nugine/setup-flatc",
 ]
 
 
