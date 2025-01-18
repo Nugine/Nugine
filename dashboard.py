@@ -16,6 +16,8 @@ REPO_LIST = [
     "Nugine/simdutf-rs",
     "Nugine/epkv",
     "Nugine/setup-flatc",
+    "Nugine/nublog",
+    "Nugine/pastebin",
 ]
 
 
