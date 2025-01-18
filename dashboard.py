@@ -10,6 +10,8 @@ REPO_LIST = [
     "Nugine/outref",
     "Nugine/std-next",
     "Nugine/transform-stream",
+    "Nugine/wgp",
+    "Nugine/ordered-vecmap",
     "Nugine/rust-utils",
     "Nugine/simdutf-rs",
     "Nugine/epkv",

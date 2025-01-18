@@ -23,9 +23,9 @@ Notable projects:
 + [Nugine/outref](https://github.com/Nugine/outref): Out reference
 + [Nugine/std-next](https://github.com/Nugine/std-next): Opinionated utilities and polyfills
 + [Nugine/transform-stream](https://github.com/Nugine/transform-stream): Lightweight async stream wrapper
++ [Nugine/wgp](https://github.com/Nugine/wgp): Yet another waitgroup implementation
++ [Nugine/ordered-vecmap](https://github.com/Nugine/ordered-vecmap): Ordered map and set based on vectors and binary search
 + [Nugine/rust-utils](https://github.com/Nugine/rust-utils): Various utilities and experimental ideas
-    + [ordered-vecmap](https://github.com/Nugine/rust-utils/tree/main/crates/ordered-vecmap): Ordered map and set based on vectors and binary search
-    + [wgp](https://github.com/Nugine/rust-utils/tree/main/crates/wgp): Yet another waitgroup implementation
 + [Nugine/bfjit](https://github.com/Nugine/bfjit): Brainfuck JIT 虚拟机教程
 + [Nugine/rdma](https://github.com/Nugine/rdma): Low-level RDMA API
 + [Nugine/simdutf-rs](https://github.com/Nugine/simdutf-rs): Unicode validation and transcoding at billions of characters per second
