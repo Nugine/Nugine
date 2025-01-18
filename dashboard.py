@@ -9,6 +9,7 @@ REPO_LIST = [
     "Nugine/asc",
     "Nugine/outref",
     "Nugine/std-next",
+    "Nugine/transform-stream",
     "Nugine/rust-utils",
     "Nugine/simdutf-rs",
     "Nugine/epkv",

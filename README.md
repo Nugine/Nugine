@@ -22,8 +22,8 @@ Notable projects:
 + [Nugine/asc](https://github.com/Nugine/asc): Atomic Strong Count
 + [Nugine/outref](https://github.com/Nugine/outref): Out reference
 + [Nugine/std-next](https://github.com/Nugine/std-next): Opinionated utilities and polyfills
++ [Nugine/transform-stream](https://github.com/Nugine/transform-stream): Lightweight async stream wrapper
 + [Nugine/rust-utils](https://github.com/Nugine/rust-utils): Various utilities and experimental ideas
-    + [transform-stream](https://github.com/Nugine/rust-utils/tree/main/crates/transform-stream): Lightweight async stream wrapper
     + [ordered-vecmap](https://github.com/Nugine/rust-utils/tree/main/crates/ordered-vecmap): Ordered map and set based on vectors and binary search
     + [wgp](https://github.com/Nugine/rust-utils/tree/main/crates/wgp): Yet another waitgroup implementation
 + [Nugine/bfjit](https://github.com/Nugine/bfjit): Brainfuck JIT 虚拟机教程
