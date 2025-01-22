@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import os
+
 REPO_LIST = [
     "Nugine/s3s",
     "Nugine/simd",
@@ -13,6 +15,7 @@ REPO_LIST = [
     "Nugine/wgp",
     "Nugine/ordered-vecmap",
     "Nugine/rust-utils",
+    "Nugine/bfjit",
     "Nugine/simdutf-rs",
     "Nugine/epkv",
     "Nugine/setup-flatc",
@@ -22,12 +25,19 @@ REPO_LIST = [
 
 
 def main():
-    print("|Repo|Status|")
-    print("|-|-|")
+    s = "|Repo|Status|\n"
+    s += "|-|-|\n"
     for repo in REPO_LIST:
         link = f"[{repo}](https://github.com/{repo})"
         ci = f"[![CI](https://github.com/{repo}/actions/workflows/ci.yml/badge.svg)](https://github.com/{repo}/actions)"
-        print(f"|{link}|{ci}|")
+        s += f"|{link}|{ci}|\n"
+
+    tempfile = ".vscode/a.txt"
+    with open(tempfile, "w") as f:
+        f.write(s)
+
+    os.system(f"gh issue edit 1 --body-file {tempfile}")
+    os.remove(tempfile)
 
 
 if __name__ == "__main__":
