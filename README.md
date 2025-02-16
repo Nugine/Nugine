@@ -65,6 +65,8 @@ I have contributed to various projects:
   + https://github.com/denoland/deno/pull/14992
 + [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
   + https://github.com/denoland/rusty_v8/pull/1019
++ [rust-lang/socket2](https://github.com/rust-lang/socket2)
+  + https://github.com/rust-lang/socket2/pull/553
 + [tikv/rust-rocksdb](https://github.com/tikv/rust-rocksdb)
   + https://github.com/tikv/rust-rocksdb/pull/686
 + [apache/opendal](https://github.com/apache/opendal)
