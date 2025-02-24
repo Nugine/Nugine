@@ -10,6 +10,7 @@ REPO_LIST = [
     "Nugine/numeric_cast",
     "Nugine/asc",
     "Nugine/outref",
+    "Nugine/scoped-writer",
     "Nugine/std-next",
     "Nugine/transform-stream",
     "Nugine/wgp",

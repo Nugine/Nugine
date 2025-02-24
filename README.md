@@ -21,6 +21,7 @@ Notable projects:
 + [Nugine/numeric_cast](https://github.com/Nugine/numeric_cast): Safely cast between numbers
 + [Nugine/asc](https://github.com/Nugine/asc): Atomic Strong Count
 + [Nugine/outref](https://github.com/Nugine/outref): Out reference
++ [Nugine/scoped-writer](https://github.com/Nugine/scoped-writer): Scoped writer utility
 + [Nugine/std-next](https://github.com/Nugine/std-next): Opinionated utilities and polyfills
 + [Nugine/transform-stream](https://github.com/Nugine/transform-stream): Lightweight async stream wrapper
 + [Nugine/wgp](https://github.com/Nugine/wgp): Yet another waitgroup implementation
