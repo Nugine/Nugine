@@ -62,6 +62,8 @@ I have contributed to various projects:
   + https://github.com/redis/redis/pull/13672
 + [valkey-io/valkey](https://github.com/valkey-io/valkey)
   + https://github.com/valkey-io/valkey/pull/1293
++ [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS)
+  + https://github.com/deepseek-ai/3FS/pull/59
 + [denoland/deno](https://github.com/denoland/deno)
   + https://github.com/denoland/deno/pull/14992
 + [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
