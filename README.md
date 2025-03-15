@@ -66,6 +66,11 @@ I have contributed to various projects:
   + https://github.com/deepseek-ai/3FS/pull/59
 + [denoland/deno](https://github.com/denoland/deno)
   + https://github.com/denoland/deno/pull/14992
++ [uuid-rs/uuid](https://github.com/uuid-rs/uuid)
+  + https://github.com/uuid-rs/uuid/issues/556
+  + https://github.com/uuid-rs/uuid/issues/561
+  + https://github.com/uuid-rs/uuid/pull/562
+  + https://github.com/uuid-rs/uuid/pull/566
 + [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
   + https://github.com/denoland/rusty_v8/pull/1019
 + [rust-lang/socket2](https://github.com/rust-lang/socket2)
@@ -74,7 +79,6 @@ I have contributed to various projects:
   + https://github.com/tikv/rust-rocksdb/pull/686
 + [apache/opendal](https://github.com/apache/opendal)
 + [datenlord/datenlord](https://github.com/datenlord/datenlord)
-+ [uuid-rs/uuid](https://github.com/uuid-rs/uuid)
 + [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021)
 + [minio/mc](https://github.com/minio/mc)
 + [RustScan/RustScan](https://github.com/RustScan/RustScan)
